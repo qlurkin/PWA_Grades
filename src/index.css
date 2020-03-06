@@ -1,32 +1,32 @@
 #root {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: 0;
-    padding: 1rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	padding: 1rem;
 }
 
 a {
-    text-decoration: none;
-    color: inherit;
+	text-decoration: none;
+	color: inherit;
 }
 
-.MuiBox-root, .MuiGrid-root.MuiGrid-container {
-    height: 100%;
+.MuiBox-root, #column {
+	height: 100%;
 }
 
 .MuiFormControl-root {
-    width: 100%;
+	width: 100%;
 }
 
 #root .MuiFab-root {
-    position: fixed;
-    bottom: 1rem;
-    right: 1rem;
+	position: fixed;
+	bottom: 1rem;
+	right: 1rem;
 }
 
 form {
-    margin-top: 1rem;
+	margin-top: 1rem;
 }
   
